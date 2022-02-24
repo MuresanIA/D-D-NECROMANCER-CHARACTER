@@ -1,9 +1,9 @@
 # Character name:
 ## Midnight
 
-#Age:
+# Age:
 ## 900 years old
 
-#Race:
+# Race:
 ## Human
 
