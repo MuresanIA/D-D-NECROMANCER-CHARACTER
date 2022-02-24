@@ -1,5 +1,9 @@
-# D-D-NECROMANCER-CHARACTER
-My necromancer build and story line
-test
+# Character name:
+## Midnight
 
-teste
+#Age:
+## 900 years old
+
+#Race:
+## Human
+
