@@ -7,3 +7,7 @@
 # Race:
 ## Human
 
+# Class:
+## Wizard Necromancer
+
+# Background story:
