@@ -2,7 +2,7 @@
 ## Midnight
 
 # Age:
-## 900 years old
+## 696 years old
 
 # Race:
 ## Human
