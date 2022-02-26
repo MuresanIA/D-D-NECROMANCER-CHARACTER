@@ -29,3 +29,10 @@
 ### Minutes after his death, Damian awakens in a world so cold, so dark, so empty, and fueled by the souls of death that he feels petrified. Taking a long look, he sees an entity devouring the souls that enter the portal. It was standing between two mountains, so huge that the sky was bleeding on their tops.
 ### Damian's soul is pulled right in front of the entity, staring at each other for a short time. The entity speaks "We are enemies you and I, you delayed thousands of souls with your medicine, healed more than you can grab, you were a man of science and logic, but what do you say about what you see now?". Damian with no doubt and states that this is a hallucination.
 ### The voice deepens inside Damian's mind, "Now that you have awakened me, I need a vessel to get out and resume my work that was almost complete. I am Nagash the father of necromancy, the God of Death. The whole world will bend to my will. Your body is not dead yet, you are in a coma, just enough to allow me to leave. The midnight of life will fall upon this reality and everything that life holds most dear will collapse to ruin and disease under my foot."
+
+# Necromancer Spell List
+
+![necromancer spell list](https://user-images.githubusercontent.com/58250258/155843952-19dd87b4-cc6b-4395-976b-343117a7d4db.PNG)
+
+
+
