@@ -213,7 +213,7 @@
 ### Create Undead
 ![image](https://user-images.githubusercontent.com/58250258/155990967-a6503fe6-fad3-4408-b2b4-8177c432fe1c.png)
 
-![image](https://user-images.githubusercontent.com/58250258/155991037-d8f50a47-d05a-4043-aa50-ffd329e36315.png)
+![image](https://user-images.githubusercontent.com/58250258/155991366-755095cb-55c2-40c6-92d2-374b575c986d.png)
 
 ![image](https://user-images.githubusercontent.com/58250258/155991117-772d9952-82bf-4f75-8a1b-6474834a41b8.png)
 
