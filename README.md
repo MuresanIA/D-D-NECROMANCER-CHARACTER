@@ -156,3 +156,6 @@
 
 ### Bestow Curse
 ![image](https://user-images.githubusercontent.com/58250258/155986448-ca3044db-00ca-4192-b627-e67526733f6d.png)
+
+### Feign Death
+![image](https://user-images.githubusercontent.com/58250258/155986578-58153801-e264-41eb-baab-8a64ed8fd045.png)
