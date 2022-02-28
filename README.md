@@ -27,6 +27,9 @@
 ### Minutes after his death, Damian awakens in a world so cold, so dark, so empty, and fueled by the souls of death that he feels petrified. Taking a long look, he sees an entity devouring the souls that enter the portal. It was standing between two mountains, so huge that the sky was bleeding on their tops.
 ### Damian's soul is pulled right in front of the entity, staring at each other for a short time. The entity speaks "We are enemies you and I, you delayed thousands of souls with your medicine, healed more than you can grab, you were a man of science and logic, but what do you say about what you see now?". Damian with no doubt states that this is a hallucination.
 ### The voice deepens inside Damian's mind, "Now that you have awakened me, I need a vessel to get out and resume my work that was almost complete. I am Nagash the father of necromancy, the God of Death. The whole world will bend to my will. Your body is not dead yet, you are in a coma, just enough to allow me to leave. The midnight of death will fall upon this reality and everything that life holds most dear will collapse to ruin and disease under my foot."
+### As a result, Nagash has entered the world of the living by means of Damian Tepes' body, while his souls is imprisoned in the realm of the dead for all eternity. He has changed his weight, height, face appearance, and voice because he is so at ease in his own skin. Damian was no longer alive, and he had changed. Midnight has awoken, wreaking havoc on the living.
+
+### All of the stories and quiet myths about the God of Death that had ever been uttered or written were suddenly confronted with the fact of his presence.
 
 # Necromancer Spell List
 
