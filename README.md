@@ -159,3 +159,6 @@
 
 ### Feign Death
 ![image](https://user-images.githubusercontent.com/58250258/155986578-58153801-e264-41eb-baab-8a64ed8fd045.png)
+
+### Life Transference
+![image](https://user-images.githubusercontent.com/58250258/155986701-fa769d2b-8e64-4aa3-ba69-b4e4e2959a42.png)
