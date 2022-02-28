@@ -135,7 +135,7 @@
 ![image](https://user-images.githubusercontent.com/58250258/155985207-b2e33258-df3b-4adf-a1d7-032f7db9329f.png)
 
 ### Gentle Repose
-![image](https://user-images.githubusercontent.com/58250258/155985401-d8f476e2-7ac0-4239-88fc-b8b4dde426fe.png)
+![image](https://user-images.githubusercontent.com/58250258/155987136-0130fda0-cc38-4638-8f0a-a42ffdfe7a64.png)
 
 ### Ray of Enfeeblement
 ![image](https://user-images.githubusercontent.com/58250258/155985527-a326a072-597a-40e7-84d6-50adcb851f2b.png)
