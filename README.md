@@ -139,3 +139,6 @@
 
 ### Ray of Enfeeblement
 ![image](https://user-images.githubusercontent.com/58250258/155985527-a326a072-597a-40e7-84d6-50adcb851f2b.png)
+
+### Wither and Bloom
+![image](https://user-images.githubusercontent.com/58250258/155985651-bdcc4860-1c87-418b-babb-dd49b7a9357e.png)
