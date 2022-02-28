@@ -128,3 +128,8 @@
 
 ### Ray of Sickness
 ![image](https://user-images.githubusercontent.com/58250258/155985057-77a1c162-44d4-457e-bf37-7e59fffd1b01.png)
+
+## Level 2
+
+### Blindness/Deafness
+![image](https://user-images.githubusercontent.com/58250258/155985207-b2e33258-df3b-4adf-a1d7-032f7db9329f.png)
