@@ -204,3 +204,20 @@
 
 ### Raise Dead
 ![image](https://user-images.githubusercontent.com/58250258/155990671-2ab75143-27d6-431a-abcb-d3cd35fefd88.png)
+
+## Level 6
+
+### Circle of Death
+![image](https://user-images.githubusercontent.com/58250258/155990847-922fca73-b891-4040-804e-ca104d89e5c1.png)
+
+### Create Undead
+![image](https://user-images.githubusercontent.com/58250258/155990967-a6503fe6-fad3-4408-b2b4-8177c432fe1c.png)
+
+![image](https://user-images.githubusercontent.com/58250258/155991037-d8f50a47-d05a-4043-aa50-ffd329e36315.png)
+
+![image](https://user-images.githubusercontent.com/58250258/155991117-772d9952-82bf-4f75-8a1b-6474834a41b8.png)
+
+![image](https://user-images.githubusercontent.com/58250258/155991194-7cc82b6f-d62f-46fc-ac9a-dbeb811d2be7.png)
+
+![image](https://user-images.githubusercontent.com/58250258/155991258-3229732e-88fd-4f1b-a2c1-7496f7a03811.png)
+
