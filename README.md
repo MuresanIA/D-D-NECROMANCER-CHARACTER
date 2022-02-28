@@ -108,3 +108,6 @@
 ### Sapping-Sting
 ![sapping sting](https://user-images.githubusercontent.com/58250258/155983973-56e49046-2834-42cd-a04e-4ff95401cfd4.PNG)
 
+### Spare the Dying
+![Spare the Dying](https://user-images.githubusercontent.com/58250258/155984142-077929a9-3208-43fd-8f7d-375e4f4fa979.PNG)
+
