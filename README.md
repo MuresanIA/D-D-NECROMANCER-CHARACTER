@@ -136,3 +136,6 @@
 
 ### Gentle Repose
 ![image](https://user-images.githubusercontent.com/58250258/155985401-d8f476e2-7ac0-4239-88fc-b8b4dde426fe.png)
+
+### Ray of Enfeeblement
+![image](https://user-images.githubusercontent.com/58250258/155985527-a326a072-597a-40e7-84d6-50adcb851f2b.png)
