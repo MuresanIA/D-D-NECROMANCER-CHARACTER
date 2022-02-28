@@ -232,3 +232,31 @@
 
 ### Soul Cage
 ![image](https://user-images.githubusercontent.com/58250258/155991771-df9b6d79-7221-44db-b2c1-155160394160.png)
+
+## Level 7
+
+### Finger of Death
+![image](https://user-images.githubusercontent.com/58250258/155991959-35d960df-0b70-4687-b835-495a9e6d5bca.png)
+
+### Resurrection
+![image](https://user-images.githubusercontent.com/58250258/155992020-9b7cb013-7bb7-49c8-b769-49e8e0f47b64.png)
+
+### Tether Essence
+![image](https://user-images.githubusercontent.com/58250258/155992079-86060d84-0091-4ada-9291-bd72842e7780.png)
+
+## Level 8
+
+### Abi-Dalzim’s Horrid Wilting
+![image](https://user-images.githubusercontent.com/58250258/155992156-b680edc2-800a-4b5f-aecc-73e30952eac5.png)
+
+### Clone
+![image](https://user-images.githubusercontent.com/58250258/155992188-6bd43d23-8b47-4c67-b8f1-ff7c26d3d0bc.png)
+
+### Astral Projection
+![image](https://user-images.githubusercontent.com/58250258/155992243-1d0216da-9245-47e8-bc19-a53f79df1247.png)
+
+### Time Ravage
+![image](https://user-images.githubusercontent.com/58250258/155992303-acf77601-e4c5-4240-a42e-56d993c57715.png)
+
+### True Resurrection
+![image](https://user-images.githubusercontent.com/58250258/155992342-929220d6-318a-4539-a56c-d8bf6bcf2400.png)
