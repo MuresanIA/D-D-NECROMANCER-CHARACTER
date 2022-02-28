@@ -105,7 +105,7 @@
 ![chill touch](https://user-images.githubusercontent.com/58250258/155983767-c1e9be6a-9744-44ea-941a-36af30d90eb2.PNG)
 
 
-### Sapping-Sting
+### Sapping Sting
 ![sapping sting](https://user-images.githubusercontent.com/58250258/155983973-56e49046-2834-42cd-a04e-4ff95401cfd4.PNG)
 
 ### Spare the Dying
@@ -114,3 +114,8 @@
 ### Toll the Dead
 ![toll the dead](https://user-images.githubusercontent.com/58250258/155984324-e62500a6-6ad3-48ca-8d87-5a7de16eaf3a.PNG)
 
+
+## Level 1
+
+### Cause Fear
+![image](https://user-images.githubusercontent.com/58250258/155984643-7245b3ec-a0e7-4a55-af73-cc650da8cde9.png)
