@@ -1,17 +1,12 @@
-# Character name:
-## Midnight
+# Character name: Midnight
 
-# Age:
-## 696 years old
+# Age: 696 years old
 
-# Race:
-## Human
+# Race: Human
 
-# Class:
-## Wizard Necromancer
+# Class: Wizard Necromancer
 
-# Occult
-## Reaper
+# Occult: Reaper 
 
 # Background story:
 
