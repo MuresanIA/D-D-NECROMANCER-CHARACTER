@@ -154,3 +154,5 @@
 ### Zombie Stats
 ![image](https://user-images.githubusercontent.com/58250258/155986290-8af3fddc-49a6-4263-b34e-21bb3dca250f.png)
 
+### Bestow Curse
+![image](https://user-images.githubusercontent.com/58250258/155986448-ca3044db-00ca-4192-b627-e67526733f6d.png)
