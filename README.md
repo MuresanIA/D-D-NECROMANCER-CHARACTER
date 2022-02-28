@@ -168,3 +168,6 @@
 
 ### Speak with Dead
 ![image](https://user-images.githubusercontent.com/58250258/155987319-4b99a843-ea98-4e70-b090-efcdd2caa32b.png)
+
+### Spirit Shroud
+![image](https://user-images.githubusercontent.com/58250258/155987447-1a6307bc-4eb8-49e2-8968-d41f4b177a48.png)
