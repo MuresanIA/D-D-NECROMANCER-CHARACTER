@@ -133,3 +133,6 @@
 
 ### Blindness/Deafness
 ![image](https://user-images.githubusercontent.com/58250258/155985207-b2e33258-df3b-4adf-a1d7-032f7db9329f.png)
+
+### Gentle Repose
+![image](https://user-images.githubusercontent.com/58250258/155985401-d8f476e2-7ac0-4239-88fc-b8b4dde426fe.png)
