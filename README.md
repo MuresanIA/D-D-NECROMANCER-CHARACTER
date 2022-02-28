@@ -230,3 +230,5 @@
 ### Magic Jar
 ![image](https://user-images.githubusercontent.com/58250258/155991642-0adb4bd0-9c8a-4320-af07-7dfbee2429f2.png)
 
+### Soul Cage
+![image](https://user-images.githubusercontent.com/58250258/155991771-df9b6d79-7221-44db-b2c1-155160394160.png)
