@@ -35,7 +35,7 @@
 ![necromancer spell list](https://user-images.githubusercontent.com/58250258/155843952-19dd87b4-cc6b-4395-976b-343117a7d4db.PNG)
 
 
-# Necromancer Spell List - Detailed
+# Necromancer Spell List tutorial list
 
 ## Spellcasting
 ### You draw on the negative energy in the world to fuel your spells.
