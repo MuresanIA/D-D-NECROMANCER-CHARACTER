@@ -10,6 +10,9 @@
 # Class:
 ## Wizard Necromancer
 
+# Occult
+## Reaper
+
 # Background story:
 
 ### As a mere mortal, Damian Tepes was focused on helping others. He was one of a kind in the field of medicine, and some called him a black magic practitioner. In 1346, the black death pain was felt throughout Europe, and the population was decimated.
