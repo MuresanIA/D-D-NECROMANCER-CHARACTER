@@ -221,3 +221,12 @@
 
 ![image](https://user-images.githubusercontent.com/58250258/155991258-3229732e-88fd-4f1b-a2c1-7496f7a03811.png)
 
+### Eyebite
+![image](https://user-images.githubusercontent.com/58250258/155991527-b8153d14-ba84-4b84-be22-a50fad91eac6.png)
+
+### Harm
+![image](https://user-images.githubusercontent.com/58250258/155991573-c7e8bde0-5a7a-49ca-be3a-242c6f812e33.png)
+
+### Magic Jar
+![image](https://user-images.githubusercontent.com/58250258/155991642-0adb4bd0-9c8a-4320-af07-7dfbee2429f2.png)
+
