@@ -111,3 +111,6 @@
 ### Spare the Dying
 ![Spare the Dying](https://user-images.githubusercontent.com/58250258/155984142-077929a9-3208-43fd-8f7d-375e4f4fa979.PNG)
 
+### Toll the Dead
+![toll the dead](https://user-images.githubusercontent.com/58250258/155984324-e62500a6-6ad3-48ca-8d87-5a7de16eaf3a.PNG)
+
