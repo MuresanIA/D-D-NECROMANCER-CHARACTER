@@ -125,3 +125,6 @@
 
 ### Inflict Wounds
 ![image](https://user-images.githubusercontent.com/58250258/155984896-dacda15d-907e-4b45-a5d1-1a57c5f295fc.png)
+
+### Ray of Sickness
+![image](https://user-images.githubusercontent.com/58250258/155985057-77a1c162-44d4-457e-bf37-7e59fffd1b01.png)
