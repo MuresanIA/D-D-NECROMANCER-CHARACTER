@@ -99,4 +99,10 @@
 ## Séance
 ### Starting at 20th level, your presence commands respect from undead. As a bonus action, the necromancer can target an undead creature they can see within 30 feet of them. The target must make a Wisdom saving throw. On a failed save, the target must obey the necromancer's commands for the next 24 hours, or until the necromancer uses Séance again.
 
-## Necromancer Spell List - named and detailed
+# Necromancer Spell List - named and detailed
+## Cantrips:
+### Chill-Touch
+![chill touch](https://user-images.githubusercontent.com/58250258/155983767-c1e9be6a-9744-44ea-941a-36af30d90eb2.PNG)
+
+
+
