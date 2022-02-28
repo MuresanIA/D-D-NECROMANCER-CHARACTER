@@ -147,3 +147,10 @@
 
 ### Animate Dead
 ![image](https://user-images.githubusercontent.com/58250258/155985798-f63eac82-92ba-4b0b-8f69-5e6528e12600.png)
+
+### Skeletong Stats
+![image](https://user-images.githubusercontent.com/58250258/155986223-903a0f07-6fe2-4fda-8047-95cf9ef09330.png)
+
+### Zombie Stats
+![image](https://user-images.githubusercontent.com/58250258/155986290-8af3fddc-49a6-4263-b34e-21bb3dca250f.png)
+
