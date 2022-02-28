@@ -179,3 +179,28 @@
 
 ### Vampiric Touch
 ![image](https://user-images.githubusercontent.com/58250258/155987894-a2889ad8-31c9-4cd3-b282-ccb48f6bb399.png)
+
+## Level 4
+
+### Blight 
+![image](https://user-images.githubusercontent.com/58250258/155990168-f22c43ba-5b84-42ed-95de-eac67235b926.png)
+
+### Shadow of Moil
+![image](https://user-images.githubusercontent.com/58250258/155990280-31745350-8d4c-4fe6-97f1-e7b7a1c9dc03.png)
+
+## Level 5
+
+### Contagion
+![image](https://user-images.githubusercontent.com/58250258/155990371-0b4fe5bb-f096-48e2-9e98-71bce98e6dee.png)
+
+### Danse Macabre
+![image](https://user-images.githubusercontent.com/58250258/155990443-96a06dd2-e55e-4d7a-9243-fb81b0093b24.png)
+
+### Enervation
+![image](https://user-images.githubusercontent.com/58250258/155990560-ec21e8a4-4cac-4b62-b195-99b97e28636c.png)
+
+### Negative Energy Flood
+![image](https://user-images.githubusercontent.com/58250258/155990617-387b0822-520d-48c2-b30a-7055a5627537.png)
+
+### Raise Dead
+![image](https://user-images.githubusercontent.com/58250258/155990671-2ab75143-27d6-431a-abcb-d3cd35fefd88.png)
