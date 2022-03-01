@@ -145,8 +145,8 @@
 ### Scorching Ray
 ![image](https://user-images.githubusercontent.com/58250258/156172016-39e4992c-7e0e-4729-a003-95d188c04c1f.png)
 
-### Wither and Bloom
-![image](https://user-images.githubusercontent.com/58250258/155985651-bdcc4860-1c87-418b-babb-dd49b7a9357e.png)
+### Locate Object
+![image](https://user-images.githubusercontent.com/58250258/156173233-26368edd-1596-4005-9ae0-be7a76207ec4.png)
 
 ## Level 3
 
