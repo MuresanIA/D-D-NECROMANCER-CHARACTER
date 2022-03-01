@@ -168,8 +168,8 @@
 ### Phantom Steed
 ![image](https://user-images.githubusercontent.com/58250258/156180797-120e3621-a9ac-417a-88c1-10702a650e50.png)
 
-### Revivify
-![image](https://user-images.githubusercontent.com/58250258/155986941-cdc4b1d5-5ce1-4e23-8805-949926f7f756.png)
+### Counterspell
+![image](https://user-images.githubusercontent.com/58250258/156182281-cd8a0276-421e-420c-a158-13d722749453.png)
 
 ### Speak with Dead
 ![image](https://user-images.githubusercontent.com/58250258/155987319-4b99a843-ea98-4e70-b090-efcdd2caa32b.png)
