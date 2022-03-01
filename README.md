@@ -142,8 +142,8 @@
 ### Invisibility
 ![image](https://user-images.githubusercontent.com/58250258/156144825-04f73700-28d8-4af8-a722-dffb7ee72a58.png)
 
-### Ray of Enfeeblement
-![image](https://user-images.githubusercontent.com/58250258/155985527-a326a072-597a-40e7-84d6-50adcb851f2b.png)
+### Scorching Ray
+![image](https://user-images.githubusercontent.com/58250258/156172016-39e4992c-7e0e-4729-a003-95d188c04c1f.png)
 
 ### Wither and Bloom
 ![image](https://user-images.githubusercontent.com/58250258/155985651-bdcc4860-1c87-418b-babb-dd49b7a9357e.png)
