@@ -136,8 +136,8 @@
 
 ## Level 2
 
-### Blindness/Deafness
-![image](https://user-images.githubusercontent.com/58250258/155985207-b2e33258-df3b-4adf-a1d7-032f7db9329f.png)
+### Misty Step
+![image](https://user-images.githubusercontent.com/58250258/156145096-60f63b5d-14cd-4521-84fc-2b765f3a2099.png)
 
 ### Invisibility
 ![image](https://user-images.githubusercontent.com/58250258/156144825-04f73700-28d8-4af8-a722-dffb7ee72a58.png)
