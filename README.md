@@ -120,8 +120,10 @@
 
 ## Level 1
 
-### Cause Fear
-![image](https://user-images.githubusercontent.com/58250258/155984643-7245b3ec-a0e7-4a55-af73-cc650da8cde9.png)
+### Unseen Servant
+![image](https://user-images.githubusercontent.com/58250258/156143194-e1836760-41a1-4de8-837a-53df39a40ce9.png)
+![image](https://user-images.githubusercontent.com/58250258/156143239-623a7e0d-dc8b-4d2e-985d-fa16c4f39a84.png)
+
 
 ### False Life
 ![image](https://user-images.githubusercontent.com/58250258/155987206-37d2565a-730a-4c78-a087-8bb30ad2fc36.png)
