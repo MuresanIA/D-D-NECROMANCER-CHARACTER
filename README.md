@@ -106,8 +106,10 @@
 ![chill touch](https://user-images.githubusercontent.com/58250258/155983767-c1e9be6a-9744-44ea-941a-36af30d90eb2.PNG)
 
 
-### Sapping Sting
-![sapping sting](https://user-images.githubusercontent.com/58250258/155983973-56e49046-2834-42cd-a04e-4ff95401cfd4.PNG)
+### Mage Hand
+![image](https://user-images.githubusercontent.com/58250258/156142750-5557420d-3ccb-4895-a9e7-17319701330a.png)
+![image](https://user-images.githubusercontent.com/58250258/156142790-6e40c196-8a55-4d0b-bbf6-76c127e3a151.png)
+
 
 ### Spare the Dying
 ![Spare the Dying](https://user-images.githubusercontent.com/58250258/155984142-077929a9-3208-43fd-8f7d-375e4f4fa979.PNG)
