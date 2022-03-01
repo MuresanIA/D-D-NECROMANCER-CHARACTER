@@ -162,8 +162,8 @@
 ### Bestow Curse
 ![image](https://user-images.githubusercontent.com/58250258/155986448-ca3044db-00ca-4192-b627-e67526733f6d.png)
 
-### Feign Death
-![image](https://user-images.githubusercontent.com/58250258/155986578-58153801-e264-41eb-baab-8a64ed8fd045.png)
+### Fireball
+![image](https://user-images.githubusercontent.com/58250258/156174647-b7cf0cd1-ee9c-43c5-bbf1-90bf7c2e7e4c.png)
 
 ### Life Transference
 ![image](https://user-images.githubusercontent.com/58250258/155986701-fa769d2b-8e64-4aa3-ba69-b4e4e2959a42.png)
