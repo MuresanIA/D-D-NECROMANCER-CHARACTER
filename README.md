@@ -139,8 +139,8 @@
 ### Blindness/Deafness
 ![image](https://user-images.githubusercontent.com/58250258/155985207-b2e33258-df3b-4adf-a1d7-032f7db9329f.png)
 
-### Gentle Repose
-![image](https://user-images.githubusercontent.com/58250258/155987136-0130fda0-cc38-4638-8f0a-a42ffdfe7a64.png)
+### Invisibility
+![image](https://user-images.githubusercontent.com/58250258/156144825-04f73700-28d8-4af8-a722-dffb7ee72a58.png)
 
 ### Ray of Enfeeblement
 ![image](https://user-images.githubusercontent.com/58250258/155985527-a326a072-597a-40e7-84d6-50adcb851f2b.png)
